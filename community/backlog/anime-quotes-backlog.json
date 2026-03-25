@@ -237,7 +237,7 @@
     "anime": "Neon Genesis Evangelion",
     "character": "Rei Ayanami",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 25,
@@ -246,7 +246,7 @@
     "english": "I am Gundam!",
     "anime": "Mobile Suit Gundam 00",
     "character": "Setsuna F. Seiei",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
